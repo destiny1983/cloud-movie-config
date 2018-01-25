@@ -15,4 +15,4 @@ spring:
   session:
     store-type: none
 
-name: jeonilee
+name: jeonilee_v2
