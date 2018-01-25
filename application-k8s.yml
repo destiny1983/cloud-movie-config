@@ -13,7 +13,7 @@ spring:
     host: ${CLOUD_MOVIE_REDIS_SERVICE_HOST}
     port: ${CLOUD_MOVIE_REDIS_SERVICE_PORT}
     
-
+name: jeonilee_k8s
 
 
 
